@@ -8,3 +8,5 @@
     Realization of the Cross solitaire in Javascript.
   </td>
 </table>
+
+The application is reachable [here](https://limo01.github.io/games/crossSolitaire/)
