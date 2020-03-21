@@ -5,6 +5,6 @@
     <img src="/img/screen.PNG" height="fill" width="fill" align="center">
   </td>
   <td>
-    Realizzazione del solitario a croce in Javascript
+    Realization of the Cross solitaire in Javascript.
   </td>
 </table>
